@@ -1,0 +1,25 @@
+kubernetes-lab/
+│
+├── 01-cluster/
+│
+├── 02-pods/
+│
+├── 03-deployments/
+│   ├── deployment.yaml
+│   └── service.yaml
+│
+├── 04-networking/
+│
+├── 05-configmaps-secrets/
+│
+├── 06-storage/
+│
+├── 07-ingress/
+│
+├── 08-security/
+│
+├── 09-helm/
+│
+├── 10-monitoring/
+│
+└── README.md
