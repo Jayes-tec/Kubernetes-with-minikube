@@ -139,18 +139,6 @@ Check disk availability:
 df -h /
 ```
 
-**Expected environment for this setup:**
-
-- Ubuntu 26.04 LTS.
-- WSL2 Linux kernel.
-- 64-bit x86 architecture.
-- 8 logical CPUs.
-- Approximately 6.7 GiB memory available to WSL in the tested environment.
-
-Your actual resource availability may differ.
-
----
-
 ## 3. Docker Desktop Setup
 
 Minikube needs a supported driver to create and run its Kubernetes node.
